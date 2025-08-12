@@ -175,6 +175,7 @@ class PyCoderr:
         self.highlight_syntax()
         self.update_line_numbers()
         self.update_cursor_info()
+        #uncomment below line to try autocomplete.
         #self.handle_autocomplete()
 
     def update_cursor_info(self, event=None):
@@ -410,3 +411,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PyCoderr(root)
     root.mainloop()
+
