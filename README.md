@@ -2,12 +2,13 @@
 Simple Python Code Editor
 
 ### Features
-*Syntax highlighting*
-*Auto-indent & Tab support*
-Code auto-completion hints
-Line numbers
-Font customization
-Run code in system terminal
+- *Syntax highlighting*
+- *Auto-indent & Tab support*
+- *Code auto-completion hints* (temporarily disabled)
+- *Line numbers*
+- *Font customization*
+- *Run code in system terminal*
+  
 Designed to be simple, lightweight, and user-friendly.
 
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/a895e8c7-acb4-4a0c-91c1-6ecd9a1891f7" />
